@@ -6,6 +6,7 @@ int main() {
 
     cout << "==================================" << endl;
     cout << "Nama : Izza Ahmaddina" << endl;
+    
     cout << "NIM : 1267050037" << endl;
     cout << "Jurusan : Informatika" << endl;
     cout << "==================================" << endl;
